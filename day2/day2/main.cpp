@@ -11,7 +11,7 @@ using namespace std;
 #include <boost/algorithm/string.hpp>
 #include <sstream>
 
-
+// adapter pattern
 class String {
 	std::string s;
 public:
